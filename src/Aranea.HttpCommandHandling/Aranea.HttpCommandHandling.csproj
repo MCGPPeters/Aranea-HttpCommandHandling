@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <RepositoryUrl>https://github.com/MCGPPeters/Aranea.HttpCommandHandling.git</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/MCGPPeters/Aranea.HttpCommandHandling</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/MCGPPeters/Aranea.HttpCommandHandling/blob/master/LICENSE</PackageLicenseUrl>
+    <Version>$(SemVer)</Version>
   </PropertyGroup>
 
 </Project>
