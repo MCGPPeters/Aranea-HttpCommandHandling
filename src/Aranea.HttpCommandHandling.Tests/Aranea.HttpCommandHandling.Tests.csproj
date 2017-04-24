@@ -5,7 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Aranea" Version="0.1.0-unstable0005" />
+    <PackageReference Include="Aranea" Version="0.1.0-unstable0020" />
+    <PackageReference Include="Eru" Version="2.0.0-unstable0059" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.0.0" />
     <PackageReference Include="xunit" Version="2.2.0" />
     <PackageReference Include="xunit.runner.visualstudio" Version="2.2.0" />
